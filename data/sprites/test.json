@@ -1,0 +1,13 @@
+{
+  "width": 32,
+  "height": 32,
+  "frameTime": 1000,
+  "animations": {
+    "Stand": {
+      "frames": [1]
+    },
+    "Test1": {
+      "frames": [2, 3]
+    }
+  }
+}
